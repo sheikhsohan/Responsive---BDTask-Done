@@ -1,0 +1,35 @@
+@media(min-width: 760px) {
+    .signup-input{
+        width: 70%;
+    }
+}
+.navbar-brand{
+    color: #920dff;
+    font-weight: 700;
+}
+.navbar-bg{
+    background-color: #fff;
+}
+.nav-link{
+    color: #920dff;
+    font-weight: 500;
+}
+
+.nav-link:hover{
+    background-color: #920dff;
+    color: white;
+    border-radius: 0.5rem;
+    transition: all 0.5s ease;
+    text-align: center;
+}
+
+.navbar-toggler{
+    border-color: #920dff;
+}
+button{
+    color: #920dff;
+    font-size: 1.5rem;
+    border-radius: .5rem;
+    border: 3px solid #920dff;
+}
+
